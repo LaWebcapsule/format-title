@@ -1,5 +1,5 @@
 {
-	"name": "@directus/format-title",
+	"name": "@directus9/format-title",
 	"version": "10.0.0",
 	"type": "module",
 	"description": "Custom string formatter that converts any string into [Title Case](http://www.grammar-monster.com/lessons/capital_letters_title_case.htm)",
@@ -26,7 +26,7 @@
 	"author": "rijkvanzanten <rijkvanzanten@me.com>",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/directus/format-title.git"
+		"url": "git+https://github.com/directus9/format-title.git"
 	},
 	"license": "MIT",
 	"engines": {

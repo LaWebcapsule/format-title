@@ -20,7 +20,7 @@ Articles, conjunctions, and prepositions do not get capital letters unless they 
 ## Installation
 
 ```bash
-$ npm install @directus/format-title
+$ npm install @directus9/format-title
 ```
 
 ## Usage
@@ -41,7 +41,7 @@ characters. By default, this regex is set to `/\s|-|_/g`.
 ## Contributing
 
 If your favorite specially cased word isn't being capitalized properly,
-[please open an issue](https://github.com/directus/format-title/issues/new) or submit a pull request!
+[please open an issue](https://github.com/directus9/format-title/issues/new) or submit a pull request!
 
 ### Requirements
 
